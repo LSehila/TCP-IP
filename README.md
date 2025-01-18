@@ -8,8 +8,8 @@
 
 <h2> Technologies utilisées : </h2>
 
-<strong> Langage C </strong> : Pour la programmation système.
+<strong> Langage C : </strong>  Pour la programmation système.
 
-Protocole TCP/IP : Pour la communication réseau entre le client et le serveur.
+<strong> Protocole TCP/IP : </strong> Pour la communication réseau entre le client et le serveur.
 
-Programmation système : Utilisation des sockets et des appels système.
+<strong> Programmation système </strong>  : Utilisation des sockets et des appels système.
