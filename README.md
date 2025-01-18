@@ -1,15 +1,23 @@
-<h2>Description du projet :</h2>
+# Système Serveur-Client avec TCP/IP
 
-   - Développement d'un système client-serveur en C utilisant le protocole TCP/IP. 
+## Description du projet
+Développement d'un système client-serveur en C utilisant le protocole TCP/IP.
 
-<h2> Objectif : </h2>
+## Objectif
+Étudier l'équilibre de la fonction `rand()` en analysant la distribution des nombres aléatoires générés.
 
-   - Étudier l'équilibre de la fonction rand() en analysant la distribution des nombres aléatoires générés.
+## Technologies utilisées
+- **Langage C** : Pour la programmation système.
+- **Protocole TCP/IP** : Pour la communication réseau entre le client et le serveur.
+- **Programmation système** : Utilisation des sockets et des appels système.
 
-<h2> Technologies utilisées : </h2>
+## Instructions d'installation et d'exécution
 
-<strong> Langage C : </strong>  Pour la programmation système.
+### Prérequis
+Avant de compiler le code, veuillez suivre ces instructions SVP :
 
-<strong> Protocole TCP/IP : </strong> Pour la communication réseau entre le client et le serveur.
-
-<strong> Programmation système </strong>  : Utilisation des sockets et des appels système.
+1. **Installer Gnuplot** :
+   Gnuplot est utilisé pour générer un graphe. Si vous ne l'avez pas installé, exécutez les commandes suivantes dans le terminal :
+   ```bash
+   sudo apt update
+   sudo apt install gnuplot
